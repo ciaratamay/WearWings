@@ -1,4 +1,5 @@
-Displays a menu of wings  that avatars can wear. Showcases avatar attachments.
+Displays a menu of wings that avatars can wear. Based entirely on the wear a hat MRE. Showcases avatar attachments.
+<a href="https://www.openode.io/">Cloud hosted on opeNode.io</a>
 
 ## Setup
 
